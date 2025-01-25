@@ -30,8 +30,7 @@ ________________________________________
 
 ![u5 Financial Insights](https://github.com/user-attachments/assets/e4b72607-1afc-470b-8043-7c323ab5ebcf)
 
-
-![u6 Supply-Chain](https://github.com/user-attachments/assets/584018d8-6daf-440e-9bf4-1cfff0e454ef)
+![11](https://github.com/user-attachments/assets/b7ead922-c471-4216-ab65-7e0fd2917a4d)
 
 ________________________________________
 ## Tools and Approach:
