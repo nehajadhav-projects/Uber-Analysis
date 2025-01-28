@@ -19,17 +19,17 @@ ________________________________________
 Dataset is collected from Chatgpt by using Google Colab.
 ________________________________________
 ## Dashboard
-
+Overview
 ![uber1](https://github.com/user-attachments/assets/425d662f-b3d8-4734-99c3-c1cecb14165d)
-
+Trip Analysis
 ![uber2](https://github.com/user-attachments/assets/8372187b-d381-4567-9278-4839383e111e)
-
+Customers Insights
 ![uber3](https://github.com/user-attachments/assets/bb14a37b-03ab-470c-ad0b-996c2a80ff81)
-
+Driver Performance
 ![uber4](https://github.com/user-attachments/assets/e9f03333-7f74-4185-bb80-f51c556bd7c5)
-
+Financial Insights
 ![uber5](https://github.com/user-attachments/assets/9f7146ce-a029-4a13-8b00-ac856937e5dc)
-
+Supply-chain
 ![uber6](https://github.com/user-attachments/assets/7e4032d3-6222-4062-b7df-b4e70597571f)
 
 ________________________________________
