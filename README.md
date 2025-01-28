@@ -20,17 +20,17 @@ Dataset is collected from Chatgpt by using Google Colab.
 ________________________________________
 ## Dashboard
 
-![u1](https://github.com/user-attachments/assets/575355b9-3d39-45af-a3f1-df65bb1b3cd3)
+![uber1](https://github.com/user-attachments/assets/425d662f-b3d8-4734-99c3-c1cecb14165d)
 
-![u2 Trip analysis](https://github.com/user-attachments/assets/6c71b972-4e1b-4b1f-b2a9-9e5b8782a13c)
+![uber2](https://github.com/user-attachments/assets/8372187b-d381-4567-9278-4839383e111e)
 
-![u3 Customers Insights](https://github.com/user-attachments/assets/d137cec0-c52c-4dfa-b3f9-4571c6fc3421)
+![uber3](https://github.com/user-attachments/assets/bb14a37b-03ab-470c-ad0b-996c2a80ff81)
 
-![u4 Driver performance](https://github.com/user-attachments/assets/4bb3275d-3301-43a7-b332-fc8afe7d94e2)
+![uber4](https://github.com/user-attachments/assets/e9f03333-7f74-4185-bb80-f51c556bd7c5)
 
-![u5 Financial Insights](https://github.com/user-attachments/assets/e4b72607-1afc-470b-8043-7c323ab5ebcf)
+![uber5](https://github.com/user-attachments/assets/9f7146ce-a029-4a13-8b00-ac856937e5dc)
 
-![11](https://github.com/user-attachments/assets/b7ead922-c471-4216-ab65-7e0fd2917a4d)
+![uber6](https://github.com/user-attachments/assets/7e4032d3-6222-4062-b7df-b4e70597571f)
 
 ________________________________________
 ## Tools and Approach:
